@@ -42,7 +42,7 @@
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/koinobori.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",

@@ -3968,9 +3968,32 @@ body {
   color: #232323;
   text-align: left;
 }
+.cid-rpHtLrZUm9 {
+  background: #ffffff;
+}
+.cid-rpHtLrZUm9 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rpHtLrZUm9 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rpHtLrZUm9 figcaption {
+  position: relative;
+}
+.cid-rpHtLrZUm9 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rpHtLrZUm9 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rpsa1QC8qR {
   background: #ffffff;
-  padding-top: 15px;
+  padding-top: 60px;
   padding-bottom: 15px;
 }
 .cid-rpsa1QC8qR .image-block {
